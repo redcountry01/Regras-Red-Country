@@ -1,20 +1,13 @@
 
 body {
-    background-image: url('https://raw.githubusercontent.com/redcountry01/Regras-Red-Country/main/Red%20Country%20foto.jpg'); /* Textura pergaminho */
+    background-image: url('https://raw.githubusercontent.com/redcountry01/Regras-Red-Country/refs/heads/main/Red%20Country%20foto.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
-    font-family: 'Merriweather', serif;
-    color: #d6b38b;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-    text-align: justify;
-    line-height: 1.8;
+    /* restante do seu CSS... */
+}
+
 }
 
 .container {
